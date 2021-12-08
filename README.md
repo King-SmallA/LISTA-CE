@@ -13,7 +13,7 @@ The code is tested on Linux environments (Tensorflow: 1.14.0, CUDA10.1).
 ###### LISTA_CE_SingleNet.py: Used for training and testing LISTA-CE in the paper.
 ###### LISTA_CE_Hyper_averModel.py: Used for training and testing LISTA-CEAver in the paper.
 ###### LISTA_CE_Hyper_TrainJointly.py: Used for training and testing LISTA-CEHyper in the paper.
-###### LISTA_CE_Hyper_averModel.py should be run before LISTA_CE_Hyper_TrainJointly.py to get the LISTA-CEAver network, as described in the first paragraph of page 5 in the paper.
+###### 'LISTA_CE_Hyper_averModel.py' should be run before 'LISTA_CE_Hyper_TrainJointly.py' to get the LISTA-CEAver network, as described in the first paragraph of page 5 in the paper.
 ###### For the convenience of code writing, one layer of network in the paper is represented as two layers in the code. The two are equivalent.
 
 ## Introduction
@@ -25,7 +25,7 @@ Figure 1. Illustration of our proposed LISTA-CE framework.
 ![LISTA-CE](/Figs/LISTA_CEHyper.png)
 Figure 2. Illustration of the *t*-th layer of our proposed LISTA-CEHyper framework.
 
-<!-- ## Citation
+## Citation
 If you find our code helpful in your resarch or work, please cite our paper.
 ```
 @misc{jin2021adaptive,
@@ -36,4 +36,3 @@ If you find our code helpful in your resarch or work, please cite our paper.
       archivePrefix={arXiv},
       primaryClass={eess.SP}
 }
-``` -->
