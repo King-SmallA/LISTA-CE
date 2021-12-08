@@ -3,7 +3,7 @@
 
 This repository is for LISTA-CE introduced in the following paper, which is accepted by GLOBECOM 2021:
 
-W. Jin, H. He, C.-K. Wen, S. Jin, and G. Y. Li, “Adaptive Channel Estimation Based on Model-Driven Deep Learning for Wideband mmWave Systems,”, [[pdf]](https://arxiv.org/pdf/2104.13656.pdf).
+W. Jin, H. He, C.-K. Wen, S. Jin, and G. Y. Li, “Adaptive Channel Estimation Based on Model-Driven Deep Learning for Wideband mmWave Systems” [[pdf]](https://arxiv.org/pdf/2104.13656.pdf).
 
 Training data can be downloaded at [GoogleDrive](https://drive.google.com/drive/folders/1OeRStZSpSX7V3PTSwgqUjdhIQ6qlW3dG?usp=sharing). 
 
